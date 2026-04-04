@@ -1,4 +1,5 @@
 streamlit
-youtube-transcript-api
 google-generativeai
-fpdf2
+youtube-transcript-api
+fpdf
+python-dotenv
