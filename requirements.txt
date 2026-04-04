@@ -1,4 +1,0 @@
-streamlit
-anthropic
-youtube-transcript-api
-reportlab
